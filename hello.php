@@ -1,5 +1,5 @@
 <?php
  $txt = "Hello".$name;
- $name = "tyto";
+ $name = "miyake";
  echo $txt;
  ?>
